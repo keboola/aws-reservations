@@ -1,0 +1,13 @@
+{
+    "name": "keboola/aws-reservations",
+    "require": {
+        "aws/aws-sdk-php": "~2.7",
+        "symfony/console": "~2.6"
+    },
+    "authors": [
+        {
+            "name": "Martin Halamíček",
+            "email": "martin@halamicek.cz"
+        }
+    ]
+}
