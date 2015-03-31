@@ -1,13 +1,17 @@
 # aws-reservations
 Pair AWS EC2 instances with reservations.
 
-## installation
+## Installation
 ```bash
 ➜  sandbox  git clone git@github.com:keboola/aws-reservations.git
 ➜  sandbox  cd aws-reservations 
 ➜  aws-reservations git:(master) curl -sS https://getcomposer.org/installer | php
 ➜  aws-reservations git:(master) php composer.phar install
 ```
+
+## Usage
+
+Please at first provide AWS credentials http://docs.aws.amazon.com/aws-sdk-php/guide/latest/credentials.html#environment-credentials
 
 ```shell
 ➜  aws-reservations git:(master) php index.php instances
