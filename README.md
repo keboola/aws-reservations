@@ -1,3 +1,4 @@
+# DEPRECATED
 # aws-reservations
 Pair AWS EC2 instances with reservations.
 
